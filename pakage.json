@@ -1,0 +1,17 @@
+{
+ "name": "sample-nodejs-app",
+ "version": "1.0.0",
+ "description": "A simple Node.js application for CI/CD testing",
+ "main": "index.js",
+ "scripts": {
+   "start": "node index.js",
+   "test": "echo \"No tests yet\""
+ },
+ "keywords": [
+   "node",
+   "ci/cd",
+   "sample"
+ ],
+ "author": "Your Name",
+ "license": "MIT"
+}
